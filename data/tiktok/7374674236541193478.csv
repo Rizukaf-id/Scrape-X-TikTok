@@ -1,0 +1,108 @@
+cid;comment;reply_cid;reply_id;reply_text
+7375322926038483718;beda data analyst dan data engineer apa kak?;7375344307648480006;7375322926038483718;Data analyst tu ngolah nyaa untuk di visualisasiin + decision making. Kako data engineer ke infrastuktur data dna manajemen nya
+7375322926038483718;beda data analyst dan data engineer apa kak?;7375430353718215429;7375322926038483718;berarti kebanyakan main database kyk SQL ya ka?
+7375322926038483718;beda data analyst dan data engineer apa kak?;7375431327057085189;7375322926038483718;Kalo data analyst iya tpi pake python jga. Kalo data engineer ke database pake SQL sma teknik di toolsnya
+7375322926038483718;beda data analyst dan data engineer apa kak?;7375437219538682629;7375322926038483718;data engineering sebenernya make sql buat ngecheck doang. sisanya purely ngotak ngatik tools etl, management data dsbnya
+7375322926038483718;beda data analyst dan data engineer apa kak?;7375437554918654726;7375322926038483718;Btulll kdng juga ELT tergntung kbutuhan data nyaa.
+7375322926038483718;beda data analyst dan data engineer apa kak?;7376628234237199110;7375322926038483718;sql aja gak cukup kalau mau ngoalah data non struktural, harus pakai python + library nya
+7374739853289784070;info bootcamp ka;7374752442447512325;7374739853289784070;RevoU, digita skola, digital talent kominfo, myskill, rakamin banyak lgii ?
+7374739853289784070;info bootcamp ka;7375009548757598981;7374739853289784070;bootcamp yg paling rekomen utk pemula yg mana kak?
+7374739853289784070;info bootcamp ka;7375042441118139142;7374739853289784070;Semua buat pemula kok
+7374739853289784070;info bootcamp ka;7375195419758740229;7374739853289784070;Kaaa, kalo bootcamp ada testnya ga sih? Biar lebih masuk ilmunya, jadi belajar sambil test gituuu
+7374739853289784070;info bootcamp ka;7375273634787148549;7374739853289784070;Digital talent kominfo adaa
+7374739853289784070;info bootcamp ka;7375351958712369926;7374739853289784070;Oalah, makasih infonya ya ka
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7375486081955660549;7375473517729301253;Data academy, revou, rakamin, binar academy, greatedu, hack8tive, Bangkit, digita skola dll
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7376563389164176133;7375473517729301253;karier.mu by sekolah.mu kaa rekoment bgt 😎 karna toolsnya tableau dan ada LMS juga dijelasin RINCIIIII
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7382547457106084614;7375473517729301253;my edu solve jg bagus, ada pengembangan karir jugaa
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7375519840604603141;7375473517729301253;Revou kak.
+Btw, aku alumni revou 😁
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7375590219934237446;7375473517729301253;course nya kena berapa kak?
+7375473517729301253;spill tempat studi independen data analyst atau bagian2 it dongg;7382215828227425030;7375473517729301253;aku batch 5 lolos revou tp ga ku ambil, data analyze juga😭 ambil PM di binar jd nya
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375422203955577606;7375419909930926853;Haloooo aku kebetulan msh smt6 tpi bbrpa kali aku freelance DA dan skrng aku magang di BI as data analyst. Awalnya aku data engineering itu ikut Studi independen truss switch deh.
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375465028285252358;7375419909930926853;kak di BI, tools apa aja yg dipake kalau boleh tau?
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375466624902103814;7375419909930926853;Power BI, SPSS, google colab (python), Excel
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375543572516406021;7375419909930926853;itu ngoding kah bang?
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375567301792318213;7375419909930926853;Kalo spss gakk kok. Tapi klo yg lain iyaaa
+7375419909930926853;mau nanya kak, awalnya kakaknya kerja apa ya? apa langsung jd data analyst setelah lulus kuliah?;7375586749978297094;7375419909930926853;🙏
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7375146099923649285;7375140942027735814;Data prep di google cloud cobain aku wktu data engineer mumet bgtttttt 😭
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7375204723819332357;7375140942027735814;data prep tuh sama kaya query2 sql bukan sih kak?
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7375273531375878918;7375140942027735814;Btull smua tu sma sbnrnya yg bkin pusing tu tampilannya
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7378131805704143621;7375140942027735814;query itu apa bang?
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7378132211621970694;7375140942027735814;mengubah susunan data tanpa merubah struktur datanya aslinya
+misalnya ada data yang harus dijumlahkan
+atau ada yang digabung dll
+tpi tidak merubah resource data aslinya
+7375140942027735814;yang susah tuh querynya kalo pake power bi wkwkkw;7379585012645987077;7375140942027735814;Mana bener lagi kak 😭
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7375332095738069766;7375305736522334982;kalo data engineer visualisasi data aja bg?
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7375343540876886790;7375305736522334982;GAAA 😭 lebih technical dri data analyst. Emg sh ngodinn nya dikittt bgt tpi pake mya Talend itu technical bt
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7375581168118285062;7375305736522334982;data engineer lebih susah, kalau ga salah buat Pipeline juga
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7375700690624758534;7375305736522334982;Nahhhh benerr ituuu jga suka ada error nya
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7382644146304189190;7375305736522334982;Lebih kompleks, mulai dari kumpulin data, bersihkan data, perbaiki data, bagaimana mengolah data jadi informasi yang bermanfaat & menguntungkan
+7375305736522334982;cape gw data analyst cu, harian ratusan ribu. Mo pindah data enginer;7375343444087325445;7375305736522334982;DATA ENGINEER LEBIH SUSAH ANJAY 😭 aku kmrin data engineer switch ke data analyst. Complex bgt gile
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7375413925309530886;7375411644288434950;Bisaaa kok buat self project ajaa
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7375414961872814854;7375411644288434950;kalo ngambil data selain di kaggle dimana lagi ya kak aku mulai stuck soalnya wkwk
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7375422380019401477;7375411644288434950;Bappenas tu data real indonesia
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7375452786253873926;7375411644288434950;ok nanti aku coba, terima kasih kak
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7376118046005854982;7375411644288434950;Berat
+7375411644288434950;kalo modal otodidak tidak bootcamp atau kuliah masih ada harapan ga kak :( aku fokus ds ml sih;7376185227976966917;7375411644288434950;sudah terasa kok bang :)
+7377586967398040325;ko pinter banget ya oramg;7377590597882118918;7377586967398040325;Aamiin bismillah
+7375870106793165573;kirain cmn SQL,Excel dan python doang. rpnya harus bisa SPSS?;7375874785350353670;7375870106793165573;Optional tpi pasti ktmu case pake spss
+7375870106793165573;kirain cmn SQL,Excel dan python doang. rpnya harus bisa SPSS?;7383288694671213318;7375870106793165573;kaa data analyst sama data scientist pusingan manaa
+7375870106793165573;kirain cmn SQL,Excel dan python doang. rpnya harus bisa SPSS?;7376089226599531269;7375870106793165573;sama pernah intern data analyst wihhh susah cuy
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7374809870925480710;7374765812504773381;Bootcamp yaww
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7375170639660008198;7374765812504773381;bootcamp dmn kak?
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7375470698833609478;7374765812504773381;Kalo bootcamp diajarin dari 0 engga kak?
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7375485915333214982;7374765812504773381;Pastiii dungss
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7376264452667392773;7374765812504773381;RevoU kak
+7374765812504773381;hallo ka mau nanya mulai belajarnya selain di kampus dimana ka?;7381365068346409733;7374765812504773381;course dibimbing yuk, lagi belajar juga
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375486245046125318;7375485582196032262;Sistem informasi, informatika, teknik komputer, statistika, ilmu komputer
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375486385689805574;7375485582196032262;kalo administrasi bisnis bisa kak?
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375497199583380229;7375485582196032262;Teknik industri juga diajarin kok😇
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375504004249780998;7375485582196032262;Kalo basic skrng smua jurusan jga diajarin kak tpi klo emg mau deep down msuknya ke IT
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375543448290902790;7375485582196032262;Anak ekonomi pembangunan diajarin juga
+7375485582196032262;cara belajar data gtu kuliah jurusan apa kak;7375567447413228293;7375485582196032262;Kalo SPSS iyaa krna emg buat skripsi tpi kalo deep down data itu msuknya ke IT
+7375593370725761797;Mau nanya kak, pake SPSS biasanya buat nyari apa ya? terus itu "data prep" maksudnya data preparation kah? kalo iya biasanya ngapain aja ya data prep?;7375700343994761990;7375593370725761797;SPSS itu ngolah data yaa trgntung data apa ini untuk cek langsung dan bsa langsung nerapin bbrpa algoritma dan metode
+7375593370725761797;Mau nanya kak, pake SPSS biasanya buat nyari apa ya? terus itu "data prep" maksudnya data preparation kah? kalo iya biasanya ngapain aja ya data prep?;7375805723076363013;7375593370725761797;contohnya algoritma ama metodenya kak?
+7375593370725761797;Mau nanya kak, pake SPSS biasanya buat nyari apa ya? terus itu "data prep" maksudnya data preparation kah? kalo iya biasanya ngapain aja ya data prep?;7375593520730948358;7375593370725761797;apakah maksudnya buat menyiapkan data yanh ingin ditampilkan di dashboard kah?
+7375593370725761797;Mau nanya kak, pake SPSS biasanya buat nyari apa ya? terus itu "data prep" maksudnya data preparation kah? kalo iya biasanya ngapain aja ya data prep?;7375700399234401029;7375593370725761797;Data prep itu tools dri google cloud
+7375593370725761797;Mau nanya kak, pake SPSS biasanya buat nyari apa ya? terus itu "data prep" maksudnya data preparation kah? kalo iya biasanya ngapain aja ya data prep?;7375807301225317125;7375593370725761797;oohh maksudnya kaya pake looker, cloud sql, data flow dll buat melakukan data preparationnya gitu ya kak?
+7384849208522408710;Lenovo ku : bang udah bang udaaaah.
+me : dikit lagi, tahan yaa.
+lenovo ku : "not responding"
+me : untung gw rajin Ctrl+S 😂😂😂;7389396616111588102;7384849208522408710;maaf mau tanya kak apa bisa menjadi seorang data analyst tanpa mengikuti bootcamp? makasih kaaakk✨
+7384849208522408710;Lenovo ku : bang udah bang udaaaah.
+me : dikit lagi, tahan yaa.
+lenovo ku : "not responding"
+me : untung gw rajin Ctrl+S 😂😂😂;7389529959540720389;7384849208522408710;jika kamu benar² bersungguh² kamu bisa menjadi seorang Data Analyst. tapi untuk mencari relasi dan kepercayaan org lain bahwa kamu benar² seorg Data Analyst salah satunya adalah dgn ikut Bootcamp
+7384849208522408710;Lenovo ku : bang udah bang udaaaah.
+me : dikit lagi, tahan yaa.
+lenovo ku : "not responding"
+me : untung gw rajin Ctrl+S 😂😂😂;7389578074398540549;7384849208522408710;waaa makasih banyak kaaa, oiya kaa Bootcamp yang bagus menurut Kaka apaa yaa kak ?😊🙏🏻
+7375568110386053893;kak kalau jurusan teknik industri bisa jadi data analyst ngga?
+Terus kak kalau dikerjaan nanti kita kerja dianjarin dari awal atau harus bisa sendiri?;7375568866519843590;7375568110386053893;Bisaaa kok smua jurusan bisaa. Kalo case nya udah msuk company tntunyaa hrus bsa sendiri tp klo masih magang minimal bsa basic ajaa udah bsalahh
+7375568110386053893;kak kalau jurusan teknik industri bisa jadi data analyst ngga?
+Terus kak kalau dikerjaan nanti kita kerja dianjarin dari awal atau harus bisa sendiri?;7375571274850255621;7375568110386053893;makasih kak buat infonya 😁. Kalau boleh saran kak skill yang paling gampang dulu buat dipelajari itu kira-kira apa ya kak? maaf kak nanya lagi. 😅
+7375568110386053893;kak kalau jurusan teknik industri bisa jadi data analyst ngga?
+Terus kak kalau dikerjaan nanti kita kerja dianjarin dari awal atau harus bisa sendiri?;7375700770911617797;7375568110386053893;Python, sql dlu
+7375568110386053893;kak kalau jurusan teknik industri bisa jadi data analyst ngga?
+Terus kak kalau dikerjaan nanti kita kerja dianjarin dari awal atau harus bisa sendiri?;7375713643071275781;7375568110386053893;makasih banyak kak buat infonya
+7380731679365104389;kak gue baru mau ngambil course data analyst nih all out worth it gaaa???;7380753069702824710;7380731679365104389;Trgntung target perusahaan dan role kak.
+7380731679365104389;kak gue baru mau ngambil course data analyst nih all out worth it gaaa???;7381364760611422981;7380731679365104389;aku juga baru jalan ikut course nih, yuk bisa dpet karir lebih baik
+7377249992372093701;kak enakan web dev apa data analyst aku coba web dev susah, mau coba data analyst;7377824497267491589;7377249992372093701;kalau dev sering bikin code ampe ratusan, DA mudah codenya eksplisit akan tetapi bakal nemu ma statistik 😂
+7377249992372093701;kak enakan web dev apa data analyst aku coba web dev susah, mau coba data analyst;7378125991875052294;7377249992372093701;statistik banyak rumus matmtikanya ya?
+7376243795253560070;adakah kompetisi buat para pengelola data kak..seperti lomba2 gitu;7376253851009270533;7376243795253560070;Adaaa. Kmrin hackaton data. Dari top10 suka ngadain trus BI kmrin dll
+7376243795253560070;adakah kompetisi buat para pengelola data kak..seperti lomba2 gitu;7376248430845084421;7376243795253560070;wah... itu kaya Olimpiade gitu ya bang... kompetisi buat semua pegawai dari berbagai daerah
+7375795718898909957;klo gua sbg programer pusing mikirin alur dri system analyst, apalagi rancangan gk masuk akal, bisa gk tidur ngoding 🗿;7375822790647890693;7375795718898909957;Aku salut sh sma programmer nya 😭 semangat ya HAHAHA
+7375795718898909957;klo gua sbg programer pusing mikirin alur dri system analyst, apalagi rancangan gk masuk akal, bisa gk tidur ngoding 🗿;7375829003436098310;7375795718898909957;😭😭
+7375408778714170118;gak data Science aja kak 🗿;7375413966737408773;7375408778714170118;Males pake machine learning 😭
+7385536451193357061;Kak,mau Tanya bagusan mana ambil jurusan data science atau statistika klo mo jd data analyst?;7385568224535036678;7385536451193357061;Data science itu scope of work nya diatas data analyst. Jdi klo mau data analyst statistika aja klo data science aku saranin IT krna ada machine learning nya
+7382218617621185285;Pernah nyoba looker studio tak kak?;7382224177447731974;7382218617621185285;Pernahhh itu cocok buat beginner soalny di kampus prnah bljr itu
+7375551769043223301;Waoo kalo gw masih stay as Data Engineer struggle si, prnah kepikiran switch ke analyst jg tp mencoba bertahan krna duitnya hhah;7375567028079379205;7375551769043223301;Benerrr duitnya emg mantep sihh tp sesuai sma pressurenya 😭
+7376126500200579845;kalo ada big datanya, mending pake Power BI. Tapi kadang simulasinya di excel. sesuka kita dah 😂;7376129570778743558;7376126500200579845;Setujuuu
+7375412108505645830;Jadi keinget skripsi gua😂;7375466744259232517;7375412108505645830;Samaaa lagi 😭
+7376211249456677638;pengen belajar kek gini mulainya dari mana ya kak? terima kasih;7376264393513911045;7376211249456677638;ikut bootcamp di RevoU kak, km bakal dapet ilmu dasarnya, free selama 2 minggu, kl mau lanjut brlajar bisa ikut kelas berbayarnya
+7375732449290076934;kak klo DA minimal yg harus dikuasai apa aja? dan next stepnya gimana kak?;7376264220461482758;7375732449290076934;ikut bootcamp di RevoU kak, km bakal dapet ilmu dasarnya, free selama 2 minggu, kl mau lanjut brlajar bisa ikut kelas berbayarnya
+7375591151543534341;kalo data analyst tuh ngoding bukan?;7375700511465243397;7375591151543534341;Iyaaa adaa
+7375364672717865734;Pengen belajar analysis , tolong info pemula gimana peetamanya;7375364872236106501;7375364672717865734;Ikutbootcamp
+7375007422191321862;keren banget kakak nya🥺;7375042499313779462;7375007422191321862;MasyaAllah aamiin msh belajar kok 🥺
+7374741800050918149;Keren😭🔥;7374752345139315462;7374741800050918149;Masih belajarrr 😭
